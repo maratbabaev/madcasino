@@ -776,10 +776,6 @@ header .container {
   text-align: left;
   vertical-align: top;
 }
-.content__table tr:first-child td {
-  text-align: center;
-  font-weight: 900;
-}
 
 .table--style tr:first-child td {
   background: linear-gradient(180deg, rgb(219, 255, 0) 0%, rgb(180, 197, 0) 100%);
